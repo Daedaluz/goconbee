@@ -1,0 +1,8 @@
+github.com/daedaluz/fdev v0.0.0-20220808131950-36f0c6fd4b51 h1:/0cYchIJxyAKAj1vktiwtbF9KX1Kh7XKQ37Krm7HfFg=
+github.com/daedaluz/fdev v0.0.0-20220808131950-36f0c6fd4b51/go.mod h1:4XXBAuis+/SeNRqyaS80Q38m94VK2rKyb/J4zU3Y85Q=
+github.com/daedaluz/goioctl v0.0.0-20220112121310-eef48b7845b0 h1:tLanypj7anfk592ujzQ4RrZrvy4KrQQ+ozdZ2usuloM=
+github.com/daedaluz/goioctl v0.0.0-20220112121310-eef48b7845b0/go.mod h1:NbO2vzbi679q0yLroSQd/T4/NnTvpQgHWs7tgZCjiv8=
+github.com/daedaluz/goserial v0.0.0-20220808153302-37103f625d2d h1:fFRhFPYtMUta6PXrNhIr2+1ifXrhjFmzqckVW2MR/UE=
+github.com/daedaluz/goserial v0.0.0-20220808153302-37103f625d2d/go.mod h1:KebGzPqvj53gcZfV2/B52Uv4KjkADiVbw+YgtoyZAGU=
+github.com/daedaluz/goslip v0.0.0-20220927100610-dccdf8d957f7 h1:SwF5Na4nle9B5dU2xIOC04EzrBk5pBk+BttpJYtvqtI=
+github.com/daedaluz/goslip v0.0.0-20220927100610-dccdf8d957f7/go.mod h1:tFY1UwX6AwXlmLKz4DvhPdIpmr5Ptxrp/R6a/ISt6SU=
